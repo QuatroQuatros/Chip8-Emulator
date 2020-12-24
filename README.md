@@ -1,5 +1,5 @@
 # Chip8-Emulator
-Chip8 Emulator writen in python.
+Chip8 Emulator written in python.
 
 
 This emulator supports some SCHIP8 games, but I still don't implemented all the opcodes. 
